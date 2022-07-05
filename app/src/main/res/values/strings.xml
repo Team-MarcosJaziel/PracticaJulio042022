@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticaJulio042022</string>
+    <string name="text_1">Práctica realizada el Día de la Independencia de Estados Unidos del 2022</string>
+    <string name="buttonText">Oprimeme</string>
+</resources>
